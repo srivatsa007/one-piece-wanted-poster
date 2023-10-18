@@ -4,8 +4,8 @@
   </a>
 </p>
 <br/>
-#my fork of this awesome PWA/one piece poster.
-___
+# My fork of this awesome PWA/one piece poster.
+____
 My main chnages/customisations on this would be to make different variant versions:-
  * wano artstyle wanted poster.
  * Indian style wanted poster.
@@ -13,7 +13,7 @@ My main chnages/customisations on this would be to make different variant versio
 
 
 Huge thanks to Yuskawa for this slick code repo. All credits go to him. Original links below ↓ ↓ ↓
-___
+____
 # One Piece Wanted Poster Maker 🤘
 
 > Free online web application for creating One Piece wanted poster.
